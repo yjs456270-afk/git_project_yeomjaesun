@@ -1,3 +1,4 @@
-name = "yeomjaesun_version_2"
+name = "yeomjaesun_version_3"
 print(name)
-print("version_2_project")
+print("20233311")
+print("version_3_project")
