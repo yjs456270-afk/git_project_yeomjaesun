@@ -1,3 +1,3 @@
-name = "yeomjaesun"
-cheapter = 1
-print(name, cheapter)
+name = "yeomjaesun_version_1"
+print(name)
+print("version_1_project")
